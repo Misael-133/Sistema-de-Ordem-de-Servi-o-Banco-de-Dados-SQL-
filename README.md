@@ -53,7 +53,7 @@ O projeto inclui consultas como:
 - total de serviços cadastrados
 - ordens de serviço em aberto
 - listagem dos serviços vinculados a cada ordem
-- cálculo do valor total por ordem de serviço :contentReference[oaicite:1]{index=1}
+- cálculo do valor total por ordem de serviço 
 
 ## 💡 Aprendizados demonstrados
 
